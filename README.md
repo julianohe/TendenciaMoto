@@ -18,4 +18,4 @@ Na escolha da primeira moto, alguns atributos devem ser analisados com atenção
 
 (Rascunho do esquema das tabelas):
 
-   <img src="TendenciaMoto-1/assets/moto.png" alt="Esquema Relacional dos Dados">
+   <img src="assets/moto.png" alt="Esquema Relacional dos Dados">
