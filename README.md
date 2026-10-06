@@ -16,17 +16,7 @@ Na escolha da primeira moto, alguns atributos devem ser analisados com atenção
  A distribuidora e a loja podem ajudar o cliente a conhecer as principais opções do mercado.\
  Com essas informações, o cliente consegue comparar marcas e modelos e encontrar a primeira moto mais adequada ao seu perfil.
 
+(Rascunho do esquema das tabelas):
 
- DISTRIBUIDORA
-      │
-      ▼
-    LOJA
-      │
-      ▼
-    MOTOS ──────► MODELOS ──────► MARCAS
-      │              │
-      │              ▼
-      │         AVALIAÇÕES ◄──── CLIENTES
-      │
-      ▼
-    VENDAS ◄──────── CLIENTES
+   ![Esquema Relacional dos Dados ](./TendenciaMoto-1/assets/moto.png)
+ 
